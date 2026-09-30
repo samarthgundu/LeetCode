@@ -32,9 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/samarthgundu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/samarthgundu/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/samarthgundu/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/samarthgundu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
