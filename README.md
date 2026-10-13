@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/samarthgundu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/samarthgundu/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [1929-concatenation-of-array](https://github.com/samarthgundu/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samarthgundu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samarthgundu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/samarthgundu/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
