@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samarthgundu/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/samarthgundu/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
