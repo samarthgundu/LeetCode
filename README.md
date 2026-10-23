@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/samarthgundu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/samarthgundu/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/samarthgundu/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/samarthgundu/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samarthgundu/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samarthgundu/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/samarthgundu/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/samarthgundu/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
