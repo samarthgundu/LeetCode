@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/samarthgundu/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/samarthgundu/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/samarthgundu/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/samarthgundu/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -78,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/samarthgundu/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/samarthgundu/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
