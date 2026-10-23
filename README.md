@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/samarthgundu/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/samarthgundu/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/samarthgundu/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/samarthgundu/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/samarthgundu/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samarthgundu/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samarthgundu/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/samarthgundu/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
